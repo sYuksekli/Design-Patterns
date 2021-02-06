@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"Alter"},{"p":"<Unnamed>","l":"Command"},{"p":"<Unnamed>","l":"depositMoneyInBank"},{"p":"<Unnamed>","l":"Main"},{"p":"<Unnamed>","l":"NoCommand"},{"p":"<Unnamed>","l":"Select"},{"p":"<Unnamed>","l":"Transaction"},{"p":"<Unnamed>","l":"Update"}]

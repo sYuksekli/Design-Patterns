@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"Main"},{"p":"<Unnamed>","l":"ModernPayment"},{"p":"<Unnamed>","l":"ModernPaymentAdapter"},{"p":"<Unnamed>","l":"modernTypeCard"},{"p":"<Unnamed>","l":"TurboPayment"},{"p":"<Unnamed>","l":"turboTypeCard"}]
